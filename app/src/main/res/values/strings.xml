@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">juliandwinugraha_1202154120_studycase4</string>
+    <string name="cari_gambar">Cari Gambar</string>
+    <string name="masukkan_url_gambar">Masukkan URL Gambar</string>
+
+    <string-array name="mahasiswa">
+        <item>Juju</item>
+        <item>Nunu</item>
+        <item>Lian</item>
+        <item>Diego</item>
+        <item>Dora</item>
+        <item>Ac Milan</item>
+        <item>Boston</item>
+        <item>Celtics</item>
+    </string-array>
+</resources>
